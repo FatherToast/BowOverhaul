@@ -1,0 +1,4 @@
+0.0.1
+    - Added Russian translation done by markstalker.
+0.0.0
+    - Initial test release.

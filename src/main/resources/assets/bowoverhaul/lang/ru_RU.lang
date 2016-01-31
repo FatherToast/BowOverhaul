@@ -1,0 +1,35 @@
+#translated by markstalker
+
+key.bow_overhaul.category=Bow Overhaul
+key.swapActiveArrow.desc=Сменить слот в колчане
+key.openQuiver.desc=Открыть колчан
+
+container.quiver=Колчан
+
+item.chainmail.name=Кольчужный элемент
+item.studdedLeather.name=Шипованная кожа
+
+item.studdedHelmet.name=Шипованный кожаный шлем
+item.studdedChestplate.name=Шипованная кожаная куртка
+item.studdedLeggings.name=Шипованные кожаные штаны
+item.studdedBoots.name=Шипованные кожаные ботинки
+
+item.quiver.name=Колчан
+item.leatherQuiver.name=Кожаная куртка с колчаном
+item.chainQuiver.name=Кольчуга с колчаном
+item.studdedQuiver.name=Шипованная кожаная куртка с колчаном
+item.flintArrow.name=Кремниевая стрела
+item.woodenArrow.name=Деревянная стрела
+item.stoneArrow.name=Каменная стрела
+item.ironArrow.name=Железная стрела
+item.diamondArrow.name=Алмазная стрела
+item.goldenArrow.name=Золотая стрела
+
+item.woodenBow.name=Деревянный лук
+item.stoneBow.name=Каменный лук
+item.ironBow.name=Железный лук
+item.diamondBow.name=Алмазный лук
+item.goldenBow.name=Золотой лук
+
+item.potionAmmo.name=зелье
+item.snowAmmo.name=Снежный снаряд

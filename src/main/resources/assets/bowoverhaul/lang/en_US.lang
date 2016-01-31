@@ -1,0 +1,35 @@
+
+key.bow_overhaul.category=Bow Overhaul
+key.swapActiveArrow.desc=Change Quiver Slot
+key.openQuiver.desc=Open Quiver
+
+container.quiver=Quiver
+
+item.chainmail.name=Chainmail
+item.studdedLeather.name=Studded Leather
+
+item.studdedHelmet.name=Studded Leather Cap
+item.studdedChestplate.name=Studded Leather Tunic
+item.studdedLeggings.name=Studded Leather Pants
+item.studdedBoots.name=Studded Leather Boots
+
+item.quiver.name=Quiver
+item.leatherQuiver.name=Leather Tunic and Quiver
+item.chainQuiver.name=Chainmail Chestplate and Quiver
+item.studdedQuiver.name=Studded Leather Tunic and Quiver
+
+item.flintArrow.name=Flint Arrow
+item.woodenArrow.name=Wooden Arrow
+item.stoneArrow.name=Stone Arrow
+item.ironArrow.name=Iron Arrow
+item.diamondArrow.name=Diamond Arrow
+item.goldenArrow.name=Golden Arrow
+
+item.woodenBow.name=Wooden Bow
+item.stoneBow.name=Stone Bow
+item.ironBow.name=Iron Bow
+item.diamondBow.name=Diamond Bow
+item.goldenBow.name=Golden Bow
+
+item.potionAmmo.name=Potion Ammo
+item.snowAmmo.name=Snow Ammo

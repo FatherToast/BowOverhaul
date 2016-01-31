@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BowOverhaul",
+  "name": "Bow Overhaul",
+  "description": "Changes the mechanics of bows, allowing headshots and reducing the damage arrows deal at close range.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.minecraftforum.net/topic/1153874-/",
+  "updateUrl": "",
+  "authorList": ["FatherToast"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
